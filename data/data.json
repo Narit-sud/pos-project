@@ -1,0 +1,1566 @@
+{
+  "setting": {
+    "stock": {
+      "lowStockAlert": 10
+    }
+  },
+  "product": [
+    {
+      "id": "gDvp71JP",
+      "name": "3x5",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 15,
+      "price": 20,
+      "stock": 159,
+      "barcode": ""
+    },
+    {
+      "id": "QuLB51ap",
+      "name": "4x6",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 29,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "gDvp72Js",
+      "name": "4.5x7",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 29,
+      "price": 35,
+      "stock": 8,
+      "barcode": ""
+    },
+    {
+      "id": "gDfp22Js",
+      "name": "5x8",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 29,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "9ljKVp19",
+      "name": "5x9",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "4pZ5mZQN",
+      "name": "6x9",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "zww72skL",
+      "name": "6x10",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 8,
+      "barcode": ""
+    },
+    {
+      "id": "qhyBmyEW",
+      "name": "6x11",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 8,
+      "barcode": ""
+    },
+    {
+      "id": "_r_tW5aZ",
+      "name": "7x11",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "ZqdSptOU",
+      "name": "7x12",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "suhXr54V",
+      "name": "8x12",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "i5DwhXww",
+      "name": "9x14",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "nkSyhUyl",
+      "name": "10x15",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "9AXza5Ld",
+      "name": "12x18",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 31,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "epJagriw",
+      "name": "14x22",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 33,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "e9Qrd9B2",
+      "name": "16x26",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 9,
+      "barcode": ""
+    },
+    {
+      "id": "n8ny6kF_",
+      "name": "20x30",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "S_R1thXG",
+      "name": "24x42",
+      "brand": "ฟักทอง",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 34,
+      "price": 40,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "JEOM89_8",
+      "name": "2.5x4",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 12,
+      "price": 15,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "JEOM29_2",
+      "name": "3x5",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 12,
+      "price": 15,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "jUqKMTwE",
+      "name": "3.5x6",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 22,
+      "price": 25,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "C0qz9MLL",
+      "name": "4x6",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "SgRvEAq_",
+      "name": "4.5x7",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "0rpb1ZES",
+      "name": "5x8",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 100,
+      "barcode": ""
+    },
+    {
+      "id": "V_z92-kb",
+      "name": "5x9",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "JxAZFpnc",
+      "name": "6x9",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 70,
+      "barcode": ""
+    },
+    {
+      "id": "JxAZFsNc",
+      "name": "6x10",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "jjkl4zpQ",
+      "name": "6x11",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 20,
+      "barcode": ""
+    },
+    {
+      "id": "AKWSmGBK",
+      "name": "7x11",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "ohx0eH15",
+      "name": "8x12",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "Drx8asdr",
+      "name": "9x14",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "OBO9wdb5",
+      "name": "10x15",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "vmMd8ctF",
+      "name": "12x18",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "VCBUyT78",
+      "name": "14x22",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "kkaYTEnn",
+      "name": "16x26",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 38,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "06IMFZ4w",
+      "name": "20x30",
+      "brand": "นกแก้ว",
+      "category": "ถุงร้อน",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "Tgv4kLAH",
+      "name": "8x16",
+      "brand": "ม้า(บาง)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "52Vq3fLT",
+      "name": "9x18",
+      "brand": "ม้า(บาง)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "Y7fV1Fko",
+      "name": "12x20",
+      "brand": "ม้า(บาง)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "9x_6Vk0w",
+      "name": "12x26",
+      "brand": "ม้า(บาง)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 30,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "drA8Trjx",
+      "name": "6x14",
+      "brand": "ม้า(หนา)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 31,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "m0X33fhO",
+      "name": "8x16",
+      "brand": "ม้า(หนา)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 31,
+      "price": 35,
+      "stock": 20,
+      "barcode": ""
+    },
+    {
+      "id": "nOV_VVag",
+      "name": "9x18",
+      "brand": "ม้า(หนา)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "SCcPsMAw",
+      "name": "12x20",
+      "brand": "ม้า(หนา)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 31,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "SxoGb8Bq",
+      "name": "12x26",
+      "brand": "ม้า(หนา)",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 31,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "mXYe-7RG",
+      "name": "6x11",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "y-_BP-Lg",
+      "name": "6x14",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "UY1OSA4G",
+      "name": "7x15",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "HmKo1ZbZ",
+      "name": "8x16",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "3C223dcs",
+      "name": "9x18",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "uOVanX90",
+      "name": "12x20",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "jXM5Sraf",
+      "name": "12x26",
+      "brand": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 38,
+      "price": 32,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "N92AFVKM",
+      "name": "6x11",
+      "brand": "ดาวชมพู",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 8,
+      "price": 12,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "_PnaZwEf",
+      "name": "6x14",
+      "brand": "ดาวชมพู",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 10,
+      "price": 14,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "tdzpyvFH",
+      "name": "8x16",
+      "brand": "ดาวชมพู",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 14,
+      "price": 18,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "P0UaMSMU",
+      "name": "9x18",
+      "brand": "ดาวชมพู",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 22,
+      "price": 25,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "EOyQdGC2",
+      "name": "6x14",
+      "brand": "ไก่",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "ZXhbCRg7",
+      "name": "7x15",
+      "brand": "ไก่",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 8,
+      "barcode": ""
+    },
+    {
+      "id": "1I1IJhVi",
+      "name": "8x16",
+      "brand": "ไก่",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "t4e4IwJE",
+      "name": "9x18",
+      "brand": "ไก่",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 8,
+      "barcode": ""
+    },
+    {
+      "id": "Kjw5RJQT",
+      "name": "12x20",
+      "brand": "ไก่",
+      "category": "ถุงหูหิ้ว",
+      "detail": "",
+      "cost": 32,
+      "price": 35,
+      "stock": 8,
+      "barcode": ""
+    },
+    {
+      "id": "dqTj8syF",
+      "name": "น้ำตาลทราย 1 กก",
+      "brand": "ษฎา",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 27,
+      "price": 30,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "qkXTI1WH",
+      "name": "น้ำปลา 700 มล.",
+      "brand": "รื่นรส",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 10.375,
+      "price": 14,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "QSvqfRRz",
+      "name": "1 กก.",
+      "brand": "ชูรส",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 104.5,
+      "price": 107,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "3nI6jREL",
+      "name": "800 ก. หมู",
+      "brand": "รสดี",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 100,
+      "price": 92,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "OEr71hcx",
+      "name": "คาร์เนชั่น(สด)",
+      "brand": "",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 24,
+      "price": 27,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "W6no7r6K",
+      "name": "ภูเขาทอง ฝาเขียว 1 ล.",
+      "brand": "",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 55,
+      "price": 52,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "NkvtFm-1",
+      "name": "เด็กสมบูรณ์ ซีอิ้วขาว 1 ล.",
+      "brand": "",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 65,
+      "price": 51.66,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "sDbpWb6y",
+      "name": "เด็กสมบูรณ์ เต้าเจี้ยว 800 ก.",
+      "brand": "",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 35,
+      "price": 38,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "DL9q2VwR",
+      "name": "น้ำตาลปี๊บ 0.5 กก.",
+      "brand": "",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 18,
+      "price": 15,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "__Czhb7_",
+      "name": "น้ำตาลปี๊บ 1 กก.",
+      "brand": "",
+      "category": "เครื่องปรุง",
+      "detail": "",
+      "cost": 35,
+      "price": 30,
+      "stock": 110,
+      "barcode": ""
+    },
+    {
+      "id": "BuOd6v92",
+      "name": "เลม่อนถุง",
+      "brand": "ปินโต้",
+      "category": "ของใช้ครัวเรือน",
+      "detail": "",
+      "cost": 7.92,
+      "price": 10,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "9bIH5uO4",
+      "name": "ส้มถุง",
+      "brand": "ปินโต้",
+      "category": "ของใช้ครัวเรือน",
+      "detail": "",
+      "cost": 7.92,
+      "price": 10,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "afkoL7Sc",
+      "name": "สตอถุง",
+      "brand": "ปินโต้",
+      "category": "ของใช้ครัวเรือน",
+      "detail": "",
+      "cost": 7.92,
+      "price": 10,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "M6DAkVOe",
+      "name": "เลม่อนถุง",
+      "brand": "ลีโอ",
+      "category": "ของใช้ครัวเรือน",
+      "detail": "",
+      "cost": 0,
+      "price": 0,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "UvHdXQai",
+      "name": "ซักผ้า 20",
+      "brand": "โอโม",
+      "category": "ของใช้ครัวเรือน",
+      "detail": "",
+      "cost": 15.4,
+      "price": 20,
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "jD4rfNAe",
+      "name": "เผ็ดเด็ดก้าน",
+      "brand": "พริก",
+      "category": "ของแห้ง",
+      "detail": "",
+      "cost": 115,
+      "price": "160",
+      "stock": 10,
+      "barcode": ""
+    },
+    {
+      "id": "jvfGk9T_",
+      "name": "เผ็ดมีก้าน",
+      "brand": "พริก",
+      "category": "ของแห้ง",
+      "detail": "",
+      "cost": 95,
+      "price": "120",
+      "stock": 0,
+      "barcode": ""
+    },
+    {
+      "id": "3smSpJlA",
+      "name": "testd",
+      "brand": "test",
+      "category": "บรรจุภัณฑ์",
+      "detail": "",
+      "cost": 10,
+      "price": 22,
+      "stock": 10,
+      "barcode": ""
+    }
+  ],
+  "brand": [
+    {
+      "id": "LUEofXSM",
+      "name": "ฟักทอง",
+      "category": "ถุงร้อน"
+    },
+    {
+      "id": "D-EvUCEt",
+      "name": "นกแก้ว",
+      "category": "ถุงร้อน"
+    },
+    {
+      "id": "IYYbrKtD",
+      "name": "ม้า(บาง)",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "Sz1rBOso",
+      "name": "ม้า(หนา)",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "_IiPZLhy",
+      "name": "ดาวส้ม",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "iLr_aL1y",
+      "name": "ดาวแดง",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "8vs9Vdjc",
+      "name": "ดาวชมพู",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "Ou2dHOkG",
+      "name": "รถตัก",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "e5LHKnQj",
+      "name": "ไก่",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "MJsthMTS",
+      "name": "ดอกบัว",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "WScspC78",
+      "name": "ฟักทอง(ไฮโซ)",
+      "category": "ถุงหูหิ้ว"
+    },
+    {
+      "id": "dAsVR6bx",
+      "name": "ปินโต้",
+      "category": "ของใช้ครัวเรื่อน"
+    },
+    {
+      "id": "HBTiTM1h",
+      "name": "ลีโอ",
+      "category": "ของใช้ครัวเรื่อน"
+    },
+    {
+      "id": "dLUpZvks",
+      "name": "โอโม",
+      "category": "ของใช้ครัวเรื่อน"
+    },
+    {
+      "id": "9jiMr362",
+      "name": "ษฎา",
+      "color": "bg-zinc-200",
+      "category": "เครื่องปรุง"
+    },
+    {
+      "id": "aUuemU1o",
+      "name": "ชูรส",
+      "color": "bg-zinc-200",
+      "category": "เครื่องปรุง"
+    },
+    {
+      "id": "KRGjP7bG",
+      "name": "รื่นรส",
+      "color": "bg-zinc-200",
+      "category": "เครื่องปรุง"
+    },
+    {
+      "id": "1kdgAnRE",
+      "name": "รสดี",
+      "color": "bg-zinc-200",
+      "category": "เครื่องปรุง"
+    },
+    {
+      "id": "JetYpl2V",
+      "name": "พริก",
+      "color": "bg-zinc-200",
+      "category": "ของแห้ง"
+    },
+    {
+      "id": "7aunX5e-",
+      "name": "test",
+      "color": "bg-zinc-200",
+      "category": "บรรจุภัณฑ์"
+    }
+  ],
+  "category": [
+    {
+      "id": "fTkW06pI",
+      "name": "ถุงร้อน",
+      "color": "bg-blue-200"
+    },
+    {
+      "id": "uvs5fm1R",
+      "name": "ถุงหูหิ้ว",
+      "color": "bg-blue-200"
+    },
+    {
+      "id": "hsgKTGi5",
+      "name": "ถุงเย็น",
+      "color": "bg-green-200"
+    },
+    {
+      "id": "v3HDXVWe",
+      "name": "สำนักงาน",
+      "color": "bg-sky-200"
+    },
+    {
+      "id": "PhLEKNml",
+      "name": "ถุงมือ",
+      "color": "bg-purple-200"
+    },
+    {
+      "id": "fN5-MfUP",
+      "name": "ของใช้ครัวเรือน",
+      "color": "bg-yellow-200"
+    },
+    {
+      "id": "zwTyBmpW",
+      "name": "ของแห้ง",
+      "color": "bg-rose-200"
+    },
+    {
+      "id": "7EkfCC6I",
+      "name": "เครื่องปรุง",
+      "color": "bg-stone-300"
+    },
+    {
+      "id": "0oYTdY83",
+      "name": "บรรจุภัณฑ์",
+      "color": "bg-amber-300"
+    }
+  ],
+  "customer": [
+    {
+      "id": "A4d9wtY6",
+      "name": "ตองผัก",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "8W3eHfzT",
+      "name": "แหม่มปลา",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "lJ54oUDn",
+      "name": "ปุ๋ยผัก",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "6_o1hE36",
+      "name": "น้อยปลา",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "Y110qJRb",
+      "name": "ชูผัก",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "huJHS6X5",
+      "name": "อี๊ดมะพร้าว",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "ElHJ9dKH",
+      "name": "นงผัก",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "iH4RmOPK",
+      "name": "มอญผัก",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    },
+    {
+      "id": "W22daY0n",
+      "name": "จอย/ดาวกับข้าวตลาดนัด",
+      "location": "",
+      "tel": "",
+      "detail": ""
+    }
+  ],
+  "supplier": [
+    {
+      "id": "JAjrXslf",
+      "name": "Saiq",
+      "tel": "0989899998",
+      "location": "Saraburi",
+      "detail": "none"
+    },
+    {
+      "id": "LGkaYeD8",
+      "name": "Chalerm",
+      "tel": "",
+      "location": "",
+      "detail": ""
+    },
+    {
+      "id": "4lSMgiER",
+      "name": "Muay",
+      "tel": "",
+      "location": "",
+      "detail": ""
+    },
+    {
+      "id": "NdxsOUyW",
+      "name": "Piya",
+      "tel": "",
+      "location": "",
+      "detail": ""
+    },
+    {
+      "id": "y4eFleLT",
+      "name": "Breze",
+      "tel": "",
+      "location": "",
+      "detail": ""
+    },
+    {
+      "id": "_R_Y3WLw",
+      "name": "Watchapon Plastic",
+      "tel": "",
+      "location": "Saraburi",
+      "detail": ""
+    }
+  ],
+  "cart": [],
+  "savedCart": [
+    {
+      "id": "rI-QJz7D",
+      "customer": "",
+      "discount": 0,
+      "items": [
+        {
+          "id": "QuLB51ap",
+          "name": "4x6",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "gDfp22Js",
+          "name": "5x8",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "4pZ5mZQN",
+          "name": "6x9",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "zww72skL",
+          "name": "6x10",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        }
+      ],
+      "date": "2024-11-17 20:33",
+      "total": 140
+    },
+    {
+      "id": "XWVK8INM",
+      "customer": "ตองผัก",
+      "discount": 1,
+      "items": [
+        {
+          "id": "afkoL7Sc",
+          "name": "สตอถุง",
+          "brand": "ปินโต้",
+          "category": "ของใช้ครัวเรือน",
+          "cost": 7.92,
+          "price": 10,
+          "qty": 3
+        },
+        {
+          "id": "9bIH5uO4",
+          "name": "ส้มถุง",
+          "brand": "ปินโต้",
+          "category": "ของใช้ครัวเรือน",
+          "cost": 7.92,
+          "price": 10,
+          "qty": 3
+        },
+        {
+          "id": "BuOd6v92",
+          "name": "เลม่อนถุง",
+          "brand": "ปินโต้",
+          "category": "ของใช้ครัวเรือน",
+          "cost": 7.92,
+          "price": 10,
+          "qty": 4
+        }
+      ],
+      "date": "2024-11-17 20:33",
+      "total": 100
+    },
+    {
+      "id": "KRoTq3l1",
+      "customer": "",
+      "discount": 0,
+      "items": [
+        {
+          "id": "QuLB51ap",
+          "name": "4x6",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "gDvp72Js",
+          "name": "4.5x7",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "9ljKVp19",
+          "name": "5x9",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "4pZ5mZQN",
+          "name": "6x9",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        }
+      ],
+      "date": "2024-11-18 13:15",
+      "total": 140
+    }
+  ],
+  "sales": [
+    {
+      "customer": "",
+      "discount": 0,
+      "total": 160,
+      "items": [
+        {
+          "id": "gDvp71JP",
+          "name": "3x5",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 15,
+          "price": 20,
+          "qty": 1
+        },
+        {
+          "id": "QuLB51ap",
+          "name": "4x6",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "9ljKVp19",
+          "name": "5x9",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "zww72skL",
+          "name": "6x10",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "qhyBmyEW",
+          "name": "6x11",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        }
+      ],
+      "date": "2024-11-14 16:38",
+      "id": "ovG3xcuJ",
+      "isRegistered": true
+    },
+    {
+      "customer": "",
+      "discount": 0,
+      "items": [
+        {
+          "id": "gDvp72Js",
+          "name": "4.5x7",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "4pZ5mZQN",
+          "name": "6x9",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "zww72skL",
+          "name": "6x10",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "i5DwhXww",
+          "name": "9x14",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "ZqdSptOU",
+          "name": "7x12",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "9AXza5Ld",
+          "name": "12x18",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 31,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "e9Qrd9B2",
+          "name": "16x26",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 32,
+          "price": 35,
+          "qty": 1
+        }
+      ],
+      "date": "2024-11-14 16:38",
+      "total": 245,
+      "id": "csHgfBZ6",
+      "isRegistered": true
+    },
+    {
+      "customer": "น้อยปลา",
+      "discount": 10,
+      "items": [
+        {
+          "id": "ZXhbCRg7",
+          "name": "7x15",
+          "brand": "ไก่",
+          "category": "ถุงหูหิ้ว",
+          "cost": 32,
+          "price": 35,
+          "qty": 2
+        },
+        {
+          "id": "t4e4IwJE",
+          "name": "9x18",
+          "brand": "ไก่",
+          "category": "ถุงหูหิ้ว",
+          "cost": 32,
+          "price": 35,
+          "qty": 2
+        },
+        {
+          "id": "Kjw5RJQT",
+          "name": "12x20",
+          "brand": "ไก่",
+          "category": "ถุงหูหิ้ว",
+          "cost": 32,
+          "price": 35,
+          "qty": 2
+        }
+      ],
+      "date": "2024-11-14 20:57",
+      "total": 210,
+      "id": "lA97j1_r",
+      "isRegistered": true
+    },
+    {
+      "customer": "",
+      "discount": 0,
+      "items": [
+        {
+          "id": "gDvp72Js",
+          "name": "4.5x7",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 29,
+          "price": 35,
+          "qty": 1
+        },
+        {
+          "id": "qhyBmyEW",
+          "name": "6x11",
+          "brand": "ฟักทอง",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "price": 35,
+          "qty": 1
+        }
+      ],
+      "date": "2024-11-18 14:15",
+      "total": 70,
+      "id": "3TMHnQbz",
+      "isRegistered": true
+    }
+  ],
+  "record": [
+    {
+      "id": "su9bY-wx",
+      "supplier": "Breze",
+      "datePurchase": "2024-11-14",
+      "dateReceived": "2024-11-14",
+      "dateRecord": "2024-11-14",
+      "total": 3500,
+      "transactionId": "Nq9gwlAX"
+    },
+    {
+      "id": "S7FN5Cgn",
+      "supplier": "Piya",
+      "datePurchase": "2024-11-12",
+      "dateReceived": "2024-11-13",
+      "dateRecord": "2024-11-14",
+      "total": 4500,
+      "transactionId": "je9BsV_U"
+    },
+    {
+      "id": "4MD3_HxH",
+      "supplier": "Piya",
+      "datePurchase": "2024-11-18",
+      "dateReceived": "2024-11-18",
+      "dateRecord": "2024-11-18",
+      "total": 680,
+      "transactionId": "PbZrcblT"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "Nq9gwlAX",
+      "timeStamp": "2024-11-18 16:14",
+      "items": [
+        {
+          "id": "__Czhb7_",
+          "name": "น้ำตาลปี๊บ 1 กก.",
+          "brand": "",
+          "category": "เครื่องปรุง",
+          "cost": 35,
+          "qty": 100,
+          "total": 3500
+        }
+      ],
+      "type": "purchase",
+      "recordId": "su9bY-wx"
+    },
+    {
+      "id": "je9BsV_U",
+      "timeStamp": "2024-11-14 20:50",
+      "items": [
+        {
+          "id": "0rpb1ZES",
+          "name": "5x8",
+          "brand": "นกแก้ว",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "qty": 90,
+          "total": 2700
+        },
+        {
+          "id": "JxAZFpnc",
+          "name": "6x9",
+          "brand": "นกแก้ว",
+          "category": "ถุงร้อน",
+          "cost": 30,
+          "qty": 60,
+          "total": 1800
+        }
+      ],
+      "type": "purchase",
+      "recordId": "S7FN5Cgn"
+    },
+    {
+      "id": "PbZrcblT",
+      "timeStamp": "2024-11-18 13:13",
+      "items": [
+        {
+          "id": "jjkl4zpQ",
+          "name": "6x11",
+          "brand": "นกแก้ว",
+          "category": "ถุงร้อน",
+          "cost": "37",
+          "qty": 10,
+          "total": 370
+        },
+        {
+          "id": "m0X33fhO",
+          "name": "8x16",
+          "brand": "ม้า(หนา)",
+          "category": "ถุงหูหิ้ว",
+          "cost": 31,
+          "qty": 10,
+          "total": 310
+        }
+      ],
+      "type": "purchase",
+      "recordId": "4MD3_HxH"
+    }
+  ]
+}
